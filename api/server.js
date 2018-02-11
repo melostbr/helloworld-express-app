@@ -10,3 +10,5 @@ app.use(BodyParser.urlencoded({ extended: true }));
 AppRouter(app);
 
 const server = app.listen(3000, () => console.log("App running on port:", server.address().port));
+
+module.exports = server;
