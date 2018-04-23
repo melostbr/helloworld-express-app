@@ -1,6 +1,6 @@
 # Hello World Express API
 
-My first api in Express (Node) .
+My first api in Express (Node)
 
 ## Installation
 
